@@ -27,6 +27,3 @@ a chaque fois pour vous rappocher du nombre magique. Le score et le nombre de te
 lui sont donnes a la fin.
 
 """
-
-
-#########################################     Projet 3 - Nombres magiques     ###############################################
